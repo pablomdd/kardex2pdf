@@ -33,7 +33,7 @@ function setPageBackgroundColor() {
       "global": ""
     },
     "../../": {
-      "global": "https://www.saes.escom.ipn.mx/"
+      "global": "https://www.saes.upiita.ipn.mx/"
     },
     'style="height:400px;overflow-y:scroll;"': {
       "global": ""
@@ -41,7 +41,7 @@ function setPageBackgroundColor() {
     "ING. EN SIS. COMPUTACIONALES": {
       "en": "computer systems engineering"
     },
-    "INGENIERIA MECATRÓNICA": {
+    "INGENIERIA MECATR\u00D3NICA": {
       "en": "mechatronics engineering"
     },
     "semestre": {
@@ -59,8 +59,8 @@ function setPageBackgroundColor() {
     "cuarto": {
       "en": "fourth"
     },
-    "materia": {
-      "en": "course"
+    "quinto": {
+      "en": "fifth"
     },
     "clave": {
       "en": "code"
@@ -107,6 +107,8 @@ function setPageBackgroundColor() {
     "promedio": {
       "en": "average"
     },
+
+    // ISC - ESCOM
     "ANALISIS VECTORIAL": {
       "en": "vector analysis"
     },
@@ -125,15 +127,15 @@ function setPageBackgroundColor() {
     "ECUACIONES DIFERENCIALES": {
       "en": "differential equations"
     },
-    "ALGEBRA LINEAL": {
-      "en": "linear algebra"
-    },
+    // "ALGEBRA LINEAL": {
+    //   "en": "linear algebra"
+    // },
     "CALCULO APLICADO": {
       "en": "applied calculus"
     },
-    "CALCULO": {
-      "en": "calculus"
-    },
+    // "CALCULO": {
+    //   "en": "calculus"
+    // },
     "ESTRUCTURAS DE DATOS": {
       "en": "data structures"
     },
@@ -170,9 +172,9 @@ function setPageBackgroundColor() {
     "DISE\u00D1O DE SISTEMAS DIGITALES": {
       "en": "DIGITAL SYSTEMS DESIGN"
     },
-    "PROBABILIDAD Y ESTADISTICA": {
-      "en": "PROBABILITY AND STATISTICS"
-    },
+    // "PROBABILIDAD Y ESTADISTICA": {
+    //   "en": "PROBABILITY AND STATISTICS"
+    // },
     "SISTEMAS OPERATIVOS": {
       "en": "OPERATIVE SYSTEMS"
     },
@@ -197,9 +199,9 @@ function setPageBackgroundColor() {
     "ADMINISTRACION DE PROYECTOS": {
       "en": "PROJECT ADMINISTRATION"
     },
-    "INSTRUMENTACION": {
-      "en": "INSTRUMENTATION"
-    },
+    // "INSTRUMENTACION": {
+    //   "en": "INSTRUMENTATION"
+    // },
     "TEORIA DE COMUNICACIONES Y SE\u00D1ALES": {
       "en": "COMMUNICATION AND SIGNAL THEORY"
     },
@@ -229,6 +231,208 @@ function setPageBackgroundColor() {
     },
     "DESARROLLO DE SISTEMAS DISTRIBUIDOS": {
       "en": "DEVELOPMENT OF DISTRIBUTED SYSTEMS"
+    },
+    // Mecatronica - upiita
+    // 1st level
+    "ALGEBRA LINEAL Y NUMEROS COMPLEJOS": {
+      "en": "LINEAR ALGEBRA AND COMPLEX NUMBERS"
+    },
+    "ANALISIS Y DISE\u00D1O DE PROGRAMAS": {
+      "en": "ANALYSIS AND DESIGN OF (COMPUTER) PROGRAMS"
+    },
+    "CALCULO DIFERENCIAL E INTEGRAL": {
+      "en": "DIFFERENTIAL AND INTEGRAL CALCULUS"
+    },
+    "CALCULO VECTORIAL": {
+      "en": "VECTORIAL CALCULUS"
+    },
+    "CIRCUITOS ELECTRICOS AVANZADOS": {
+      "en": "ADVANCED ELECTRICAL CIRCUITS"
+    },
+    "CIRCUITOS ELECTRICOS": {
+      "en": "ELECTRICAL CIRCUITS"
+    },
+    "DIBUJO ASISTIDO POR COMPUTADORA": {
+      "en": "COMPUTER ASSISTED DESIGN"
+    },
+    // "ECUACIONES DIFERENCIALES": {
+      //   "en": "DIFFERENTIAL EQUATIONS"
+      // },
+    "ELECTRICIDAD Y MAGNETISMO": {
+      "en": "ELECTRICITY AND MAGNETISM"
+    },
+    "ESTRUCTURA Y PROPIEDADES DE LOS MATERIALES": {
+      "en": "PROPERTIES AND STRUCTURE OF MATERIALS"
+    },
+    "COMUNICACION ORAL Y ESCRITA": {
+      "en": "ORAL AND WRITTEN COMMUNICATION"
+    },
+    "FUNDAMENTOS DE ELECTRONICA": {
+      "en": "FUNDAMENTALS OF ELECTRONICS"
+    },
+    "HERRAMIENTAS COMPUTACIONALES": {
+      "en": "COMPUTATION TOOLS"
+    },
+    "INGLES I": {
+      "en": "ENGLISH I"
+    },
+    "INGLES II": {
+      "en": "ENGLISH II"
+    },
+    "INTRODUCCION A LA MECATRONICA": {
+      "en": "INTRODUCTION TO MECHATRONICS"
+    },
+    "INTRODUCCION A LA PROGRAMACION": {
+      "en": "INTRODUCTION TO PROGRAMMING"
+    },
+    "MECANICA DE LA PARTICULA": {
+      "en": "PARTICLE MECHANICS"
+    },
+    "MECANICA DEL CUERPO RIGIDO": {
+      "en": "RIGID BODY MECHANICS"
+    },
+    "PROCESO DE MANUFACTURA": {
+      "en": "MANUFACTURING PROCESSES"
+    },
+    "RESISTENCIA DE MATERIALES": {
+      "en": "RESISTANCE OF MATERIALS"
+    },
+    // 2nd level
+    "ADMINISTRACION ORGANIZACIONAL": {
+      "en": "ORGANIZATIONAL ADMINISTRATION"
+    },
+    "ANALISIS DE SE\u00D1ALES Y SISTEMAS": {
+      "en": "ANALYSIS OF SIGNALS AND SYSTEMS"
+    },
+    "ANALISIS Y SINTESIS DE MECANISMOS": {
+      "en": "ANALYSIS AND SYNTHESIS OF MECHANISMS"
+    },
+    "CIRCUITOS LOGICOS": {
+      "en": "LOGIC CIRCUITS"
+    },
+    "DISE\u00D1O BASICO DE ELEMENTOS DE MAQUINAS": {
+      "en": "BASIC DESIGN OF MACHINE ELEMENTS"
+    },
+    "DISPOSITIVOS LOGICOS PROGRAMABLES": {
+      "en": "PROGRAMMABLE LOGIC DEVICES"
+    },
+    "ELECTRONICA ANALOGICA": {
+      "en": "ANALOGIC ELECTRONICS"
+    },
+    "INGLES III": {
+      "en": "ENGLISH III"
+    },
+    "MANTENIMIENTO Y SISTEMAS DE MANUFACTURA": {
+      "en": "MAINTENANCE AND MANUFACTURING SYSTEMS"
+    },
+    "MAQUINAS ELECTRICAS": {
+      "en": "ELECTRICAL MACHINES"
+    },
+    "MECANICA DE FLUIDOS": {
+      "en": "FLUID MECHANICS"
+    },
+    "MICROPROCESADORES, MICROCONTROLADORES E INTERFAZ": {
+      "en": "MICROCOPROCESSORS, MICROCONTROLLERS AND INTERFACES"
+    },
+    "NEUMATICA E HIDRAULICA": {
+      "en": "PNEUMATICS AND HYDRAULICS"
+    },
+    "OSCILACIONES Y OPTICA": {
+      "en": "OSCILLATIONS AND OPTICS"
+    },
+    "PROBABILIDAD Y ESTADISTICA PARA INGENIERIA": {
+      "en": "PROBABILITY AND STATISTICS FOR ENGINEERING"
+    },
+    "PROGRAMACION AVANZADA": {
+      "en": "ADVANCED PROGRAMMING"
+    },
+    "SENSORES Y ACONDICIONADORES DE SE\u00D1AL": {
+      "en": "SENSORS AND SIGNAL CONDITIONING"
+    },
+    "SIMULACION ELECTRONICA Y DISE\u00D1O DE CIRCUITOS IMPRESOS": {
+      "en": "ELECTRONIC SIMULATION AND PRINTED CIRCUIT DESIGN"
+    },
+    "SISTEMAS NEURODIFUSOS": {
+      "en": "NEURO-FUZZY SYSTEMS"
+    },
+    "TEORIA ELECTROMAGNETICA": {
+      "en": "ELETROMAGNETIC THEORY"
+    },
+    "TERMODINAMICA": {
+      "en": "THERMODYNAMICS"
+    },
+    // 3RD LEVEL
+    "CONTROL CLASICO": {
+      "en": "CLASSIC CONTROL"
+    },
+    "ETICA PARA EL EJERCICIO PROFESIONAL": {
+      "en": "ETHICS FOR THE PROFESSIONAL EXERCISE"
+    },
+    "MODELADO Y SIMULACION DE SISTEMAS MECATRONICOS": {
+      "en": "MODELING AND SIMULATION OF MECHATRONIC SYSTEMS"
+    },
+    "AUTOMATIZACION INDUSTRIAL": {
+      "en": "INDUSTRIAL AUTOMATION"
+    },
+    "DISE\u00D1O AVANZADO DE ELEMENTOS DE MAQUINAS": {
+      "en": "ADVANCED DESIGN OF MACHINES"
+    },
+    "FINANZA E INGENIERIA ECONOMICA": {
+      "en": "FINANCE AND ENGINEERING ECONOMICS"
+    },
+    "PROCESADOR DIGITAL DE SE\u00D1ALES": {
+      "en": "DIGITAL SIGNAL PROCESSORS"
+    },
+    "PROYECTO INTEGRADOR": {
+      "en": "INTEGRATOR PROJECT"
+    },
+    "AUTOMATAS INDUSTRIALES": {
+      "en": "INDUSTRIAL AUTOMATAS"
+    },
+    "ELECTIVA I": {
+      "en": "ELECTIVE I"
+    },
+    // 4TH LEVEL
+    "CONTROL DE SISTEMAS MECATRONICOS": {
+      "en": "CONTROL OF MECHATRONIC SYSTEMS"
+    },
+    "ELECTRONICA DE POTENCIA": {
+      "en": "POWER ELECTRONICS"
+    },
+    "INGENIERIA ASISTIDA POR COMPUTADORA": {
+      "en": "COMPUTER AIDED ENGINEERING"
+    },
+    "METODOLOGIA DE LA INVESTIGACION": {
+      "en": "RESEARCH METHODOLOGY"
+    },
+    "PROYECTOS DE INVERSION": {
+      "en": "INVESTMENT PROJECTS"
+    },
+    "SISTEMAS DE VISION ARTIFICIAL": {
+      "en": "ARTIFICIAL VISION SYSTEMS"
+    },
+    "MERCADOTECNIA": {
+      "en": "MARKETING"
+    },
+    "ELECTIVA II": {
+      "en": "ELECTIVE II"
+    },
+    "INSTRUMENTACION VIRTUAL APLICADA": {
+      "en": "APPLIED VIRTUAL INSTRUMENTATION"
+    },
+    "INSTRUMENTACION VIRTUAL": {
+      "en": "VIRTUAL INSTRUMENTATION"
+    },
+    // 5TH LEVEL
+    "CONTROL DE MAQUINAS ELECTRICAS": {
+      "en": "CONTROL OF ELECTRICAL MACHINES"
+    },
+    "ELECTIVA III": {
+      "en": "ELECTIVE III"
+    },
+    // buggy keys
+    "materia": {
+      "en": "course"
     },
   };
 
