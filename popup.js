@@ -41,6 +41,9 @@ function setPageBackgroundColor() {
     "ING. EN SIS. COMPUTACIONALES": {
       "en": "computer systems engineering"
     },
+    "INGENIERIA MECATRÓNICA": {
+      "en": "mechatronics engineering"
+    },
     "semestre": {
       "en": "level"
     },
@@ -77,8 +80,17 @@ function setPageBackgroundColor() {
     "jun": {
       "en": "jun"
     },
+    "ago": {
+      "en": "aug"
+    },
     "dic": {
       "en": "dec"
+    },
+    "ene": {
+      "en": "jan"
+    },
+    "feb": {
+      "en": "feb"
     },
     "boleta": {
       "en": "student id"
